@@ -4,6 +4,10 @@ body {
     padding: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+div img{
+	width: 3%;
+  	height: 3%;
+}
 
 p {
     margin: 0;
