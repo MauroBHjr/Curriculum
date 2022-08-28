@@ -5,15 +5,9 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 div img{
-	width: 4%;
-  	height: 4%;
+	width: 3%;
+  	height: 3%;
 }
-div img:hover{
-	height:10%;
-	width:10%;
-	opacity:0.5;
-}
-
 p {
     margin: 0;
 }
